@@ -1,0 +1,28 @@
+{
+  "name": "projeto-dindin",
+  "version": "1.0.0",
+  "description": "XP 43 Desafio DinDin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RapperBH/Projeto-DinDin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RapperBH/Projeto-DinDin/issues"
+  },
+  "homepage": "https://github.com/RapperBH/Projeto-DinDin#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

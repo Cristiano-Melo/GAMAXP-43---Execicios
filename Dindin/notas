@@ -1,0 +1,128 @@
+
+    <!-- Primeiro Conteiner da Página-->
+
+    <article class="first-article">
+        <section>
+            <div class ><h1>Educação Financeira é tudo de bom</h1></div>
+            <p>Vem comigo que te mostro por onde começar</p>
+            <button>quero saber mais</button>
+        </section>
+        <aside>
+            <img class="first-image" src="./dindin-imagens/ilustra-banner.png" alt="home banner">
+        </aside>   
+    </article>
+
+    <main>
+<!-- Segundo Conteiner da Página-->               
+        <section>
+                <div>
+                    <img src="./dindin-imagens/ilustra-poupando.png" alt="imagem cavalinho" width="288px" height="270px">
+                        <h1>Investimento para Iniciantes</h1>
+                        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                        <button  href="./Pages/curso.html">começar agora</button>
+                </div> 
+
+                <div>
+                    <img src="./dindin-imagens/ilustra-investimento.png" alt="ilustra-investimento" width="288px" height="270px">
+                    <h1>Poupando e rendendo</h1>
+                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                    <button  href="./Pages/curso.html">começar agora</button></a>
+                </div>          
+            
+                <div>
+                    <img src="./dindin-imagens/ilustra-independencia.png" alt="ilustra-independencia" width="187px" height="270px">
+                    <h1>Investimento para Iniciantes</h1>
+                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                    <button  href="./Pages/curso.html">começar agora</button>
+                </div>
+        </section>    
+    </main>
+<!-- Terceiro Conteiner da Página-->
+    <article>
+        <div>
+            <h2>O QUE FALAM SOBRE NÓS</h2>
+        </div>
+    </article>
+    <section>
+    
+    
+        <div>
+            <img src="./dindin-imagens/icon-wally.png" alt="Wally-people" />
+    
+            <p>
+                ”Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+                accusantium doloremque laudantium, totam rem aperiam.”
+            </p>
+            <p><strong>Wally, 25</strong></p>
+    
+        </div>
+        <div>
+            <img src="./dindin-imagens/icon-jaden.png" alt="jaden-people" />
+    
+            <p>
+                ”Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+                accusantium doloremque laudantium, totam rem aperiam.”
+            </p>
+            <p><strong>Jaden Smith, 23</strong></p>
+    
+        </div>
+        <div>
+            <img src="./dindin-imagens/icon-whoopi.png" alt="Whoopi-people" />
+    
+            <p>
+                ”Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+                accusantium doloremque laudantium, totam rem aperiam.”
+            </p>
+            <p><strong>Whoopi Goldberg, 37</strong></p>
+    
+        </div>
+        <div>
+            <img src="./dindin-imagens/icon-jane.png" alt="jane-people" />
+    
+            <p>
+                ”Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+                accusantium doloremque laudantium, totam rem aperiam.”
+            </p>
+            <p><strong>Janes Joplin, 29</strong></p>
+    
+        </div>
+    
+    </section>
+<!-- Quarto Conteiner da Página-->
+    <article>
+        <div>
+            <h2>mais conteudo para voce</h2>
+        </div>
+    </article>
+    <article">
+    
+    
+    
+    
+        <div>
+            <div></div>
+            <h3> Itaque earum rerum </h3>
+            <p>
+                hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis
+                doloribus asperiores repellat.</p>
+        </div>
+    
+        <div>
+            <div></div>
+            <h3> Itaque earum rerum </h3>
+            <p>
+                hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis
+                doloribus asperiores repellat.</p>
+        </div>
+    
+        <div>
+            <div></div>
+            <h3> Itaque earum rerum </h3>
+            <p>
+                hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis
+                doloribus asperiores repellat.</p>
+        </div>
+    </article>
+
+
+

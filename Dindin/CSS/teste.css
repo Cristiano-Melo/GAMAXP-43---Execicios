@@ -1,0 +1,42 @@
+.article2 {
+    background-color: #F7F7F7;
+    display: flex;
+    position: absolute;
+    width: 1440px;
+    height: 730px;
+    left: 0px;
+    top: 829px;
+}
+
+
+.middle1 {
+    width: 288px;
+    height: 270px;
+    position: absolute;
+    left: 10.83%;
+    right: 69.17%;
+    top: 29.34%;
+    bottom: 62.21%;
+}
+
+.middle2 {
+    width: 238px;
+    height: 270px;
+    position: absolute;
+    left: 43.12%;
+    right: 40.35%;
+    top: 29.34%;
+    bottom: 62.21%;
+}
+
+.middle3 {
+
+    width: 187px;
+    height: 270px;
+    box-sizing: border-box;
+    position: absolute;
+    left: 74.03%;
+    right: 12.99%;
+    top: 29.34%;
+    bottom: 62.21%;
+}
